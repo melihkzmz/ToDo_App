@@ -1,0 +1,17 @@
+C:\Users\melih\todo_app\todo_app.business\bin\Debug\net8.0\todo_app.business.deps.json
+C:\Users\melih\todo_app\todo_app.business\bin\Debug\net8.0\todo_app.business.dll
+C:\Users\melih\todo_app\todo_app.business\bin\Debug\net8.0\todo_app.business.pdb
+C:\Users\melih\todo_app\todo_app.business\bin\Debug\net8.0\todo_app.data.dll
+C:\Users\melih\todo_app\todo_app.business\bin\Debug\net8.0\todo_app.entity.dll
+C:\Users\melih\todo_app\todo_app.business\bin\Debug\net8.0\todo_app.data.pdb
+C:\Users\melih\todo_app\todo_app.business\bin\Debug\net8.0\todo_app.entity.pdb
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\todo_app.business.csproj.AssemblyReference.cache
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\todo_app.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\todo_app.business.AssemblyInfoInputs.cache
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\todo_app.business.AssemblyInfo.cs
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\todo_app.business.csproj.CoreCompileInputs.cache
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\todo_app.9D649EB5.Up2Date
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\todo_app.business.dll
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\refint\todo_app.business.dll
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\todo_app.business.pdb
+C:\Users\melih\todo_app\todo_app.business\obj\Debug\net8.0\ref\todo_app.business.dll

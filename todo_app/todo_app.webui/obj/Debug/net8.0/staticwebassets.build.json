@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B35VrPtDwycdg3LK1OeHybU23PHWIKL63eblonIHOBY=",
+  "Source": "todo_app.webui",
+  "BasePath": "_content/todo_app.webui",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
